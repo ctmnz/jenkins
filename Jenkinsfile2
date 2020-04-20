@@ -64,8 +64,7 @@ for(i = 0; i < buildTypes.size(); i++) {
                 }
             }
         }
-    }
-}
+   }
 
 builds.failFast = failFast
 parallel builds
